@@ -104,6 +104,17 @@ Runnable versions: [`examples/`](examples). The task lifecycle is `pending → p
 
 Use the [Get an API key](https://go.apimart.ai/k-f031b7) link — $1 minimum top-up, no plan required.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, this language** — the other half of this pair: [grok-imagine-1-5-prompts-ko](https://github.com/zgfsenvosnw1/grok-imagine-1-5-prompts-ko)
+- **Same model, other languages** — 9 more language builds: 中文 [grok-imagine-1-5-api-cn](https://github.com/ke6yg044xwihmo/grok-imagine-1-5-api-cn) · Deutsch [grok-imagine-1-5-api-de](https://github.com/je4w09hwo/grok-imagine-1-5-api-de) · Español [grok-imagine-1-5-api-es](https://github.com/hgi2nd3z1h8dn/grok-imagine-1-5-api-es) · Français [grok-imagine-1-5-api-fr](https://github.com/nn2bfsza/grok-imagine-1-5-api-fr) · Relay/gateway `grok-imagine-1-5-api-gateway` · Bahasa `grok-imagine-1-5-api-id` · 日本語 [grok-imagine-1-5-api-ja](https://github.com/vjuhp4dhedflc4/grok-imagine-1-5-api-ja) · Português [grok-imagine-1-5-api-pt](https://github.com/u2dec2i-ji/grok-imagine-1-5-api-pt) · Русский `grok-imagine-1-5-api-ru`
+- **More models in this language** — [midjourney-api-ko](https://github.com/ocvewn2-9ueo/midjourney-api-ko) · [gemini-2-5-flash-image-preview-api-ko](https://github.com/uiyflzgo/gemini-2-5-flash-image-preview-api-ko) · [nano-banana-api-ko](https://github.com/l-2jb09sq/nano-banana-api-ko) · [gemini-3-1-flash-image-preview-api-ko](https://github.com/sgc3a85h2-33l/gemini-3-1-flash-image-preview-api-ko) · [nano-banana-2-api-ko](https://github.com/jjb18r/nano-banana-2-api-ko) · [gemini-3-pro-image-preview-api-ko](https://github.com/a-me4/gemini-3-pro-image-preview-api-ko)
+- **Topic hubs** — every build of this model, all languages: [grok-imagine-1-5](https://github.com/topics/grok-imagine-1-5) · [grok-imagine-1-5-api](https://github.com/topics/grok-imagine-1-5-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
